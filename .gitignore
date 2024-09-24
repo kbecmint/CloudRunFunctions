@@ -1,0 +1,7 @@
+venv
+.env
+.env.yaml
+.vscode
+test.json
+__pycache__
+documents/*

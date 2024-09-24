@@ -1,0 +1,9 @@
+venv
+.env
+.env.yaml
+.vscode
+procedure
+reference
+test.json
+documents/
+__pycache__
